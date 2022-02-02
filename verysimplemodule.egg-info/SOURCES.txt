@@ -1,7 +1,7 @@
 README.md
 setup.py
 verysimplemodule/__init__.py
-verysimplemodule/add.py
+verysimplemodule/adding.py
 verysimplemodule/subtract.py
 verysimplemodule.egg-info/PKG-INFO
 verysimplemodule.egg-info/SOURCES.txt
