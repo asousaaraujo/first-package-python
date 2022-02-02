@@ -3,18 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="1202d870-ffb7-4f9c-9943-35937aba9600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/verysimplemodule/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/verysimplemodule/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/verysimplemodule/add.py" beforeDir="false" afterPath="$PROJECT_DIR$/verysimplemodule/add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/verysimplemodule/extras/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/verysimplemodule/extras/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/verysimplemodule/extras/divide.py" beforeDir="false" afterPath="$PROJECT_DIR$/verysimplemodule/extras/divide.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/verysimplemodule/extras/multiply.py" beforeDir="false" afterPath="$PROJECT_DIR$/verysimplemodule/extras/multiply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/verysimplemodule/subtract.py" beforeDir="false" afterPath="$PROJECT_DIR$/verysimplemodule/subtract.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
