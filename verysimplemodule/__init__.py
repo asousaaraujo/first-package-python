@@ -1,2 +1,2 @@
-from add import add
-from subtract import subtract
+from add import adding
+from subtract import subtracting

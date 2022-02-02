@@ -1,2 +1,2 @@
-from multiply import multiply
-from divide import divide
+from multiply import multiplying
+from divide import dividing
