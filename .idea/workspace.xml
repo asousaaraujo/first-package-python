@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1202d870-ffb7-4f9c-9943-35937aba9600" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/verysimplemodule/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/verysimplemodule/__init__.py" afterDir="false" />
     </list>
